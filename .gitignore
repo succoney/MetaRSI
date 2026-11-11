@@ -1,0 +1,9 @@
+.DS_Store
+.openai/
+evidence/
+__pycache__/
+*.pyc
+.env
+.env.*
+node_modules/
+scripts/redesign.py
